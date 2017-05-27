@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1495790316 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn/hn/hungarian.c
+	"lapacho.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+
+1495764199 /home/huang/Desktop/cs001/cs01/hungarianc/hn/hn/lapacho.h
+	<stddef.h>
+	<limits.h>
+
+1495800305 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn/hn/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lapacho.h"
+	"lapacho.h"
+	<python2.7/Python.h>
+
+1495776071 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn/hn/lapachomodule.c
+	<python2.7/Python.h>
+	"lapacho.h"
+
+1495790316 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn(neicun)/hn/hungarian.c
+	"lapacho.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+
+1495764199 /home/huang/Desktop/cs001/cs01/hungarianc/hn(neicun)/hn/lapacho.h
+	<stddef.h>
+	<limits.h>
+
+1495776071 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn(neicun)/hn/lapachomodule.c
+	<python2.7/Python.h>
+	"lapacho.h"
+
+1495848263 source:/home/huang/Desktop/cs001/cs01/hungarianc/hn(neicun)/hn/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lapacho.h"
+	"lapacho.h"
+	<python2.7/Python.h>
+
+1495790316 source:/home/huang/Desktop/cs001/neicunxiugai/hn/hungarian.c
+	"lapacho.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+
+1495855263 /home/huang/Desktop/cs001/neicunxiugai/hn/lapacho.h
+	<stddef.h>
+	<limits.h>
+
+1495776071 source:/home/huang/Desktop/cs001/neicunxiugai/hn/lapachomodule.c
+	<python2.7/Python.h>
+	"lapacho.h"
+
+1495864124 source:/home/huang/Desktop/cs001/neicunxiugai/hn/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lapacho.h"
+
